@@ -1,0 +1,27 @@
+{
+  "name": "file-manager-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myfriendshivam/file-manager-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/myfriendshivam/file-manager-app/issues"
+  },
+  "homepage": "https://github.com/myfriendshivam/file-manager-app#readme",
+  "dependencies": {
+    "axios": "^1.12.2",
+    "express": "^5.1.0",
+    "multer": "^2.0.2",
+    "pdfjs-dist": "^5.4.149"
+  }
+}
